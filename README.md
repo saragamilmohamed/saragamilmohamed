@@ -1,38 +1,40 @@
-Hey there, I'm Sara Gamil 👋
-Headline
-Follow me
+<h1 align="center">Hi 👋, I'm Sara Gamil</h1>
+<h3 align="center">AI Engineer | Deep Learning Enthusiast | Data Explorer</h3>
 
-Dynamic and ambitious Computer Science graduate with an excellent and honor degree, passionate about Data Science and Machine Learning. I leverage my expertise in Python, Pandas, NumPy, and Seaborn along with a solid foundation in computer science principles to drive innovative solutions and insights.
+- 🎓 Currently enrolled in the **ITI AI Track**  
+- 🧠 Passionate about **Computer Vision, NLP, and Generative AI**  
+- 🛠️ Building intelligent systems with **TensorFlow, Keras, PyTorch, and Scikit-Learn**  
+- 🔍 Exploring: **MLOps | Model Deployment | AI for Social Good**  
+- 💼 Always open to collaborations and new opportunities!
 
-✨ I'm always striving to learn and grow. ✨
+---
 
-🚀 What I'm Currently Up To:
-AI & ML Trainee @ ITI (9-month scholarship)
-Diving into Machine Learning and Deep Learning projects.
-Exploring the world of Data Science with hands-on experience in solving real-world challenges.
-🌱 Learning New Skills:
-Data Science and Machine Learning with TensorFlow and PyTorch
-Deep Learning and Natural Language Processing
-AI Model Deployment and optimization
-Computer Vision techniques
-💻 My Tech Stack:
-Python Pandas NumPy Seaborn TensorFlow PyTorch
+### 🌟 My Latest Projects
+- 🧠 [SkinScanTech](link-to-repo): Dermatological image classifier using CNNs
+- 📊 [Netflix Analysis](link): Visual storytelling with Python and pandas
+- 🧵 [Smart Stitch](link): AI-powered clothing recommender system
+- 🧬 [Obesity Risk Classification](link): Multi-class ML classification using health indicators
 
-🎯 Connect with Me:
-LinkedIn: Mennatullah Tarek
-Email: menatarek04@gmail.com
-💬 Fun Facts:
-🔬 I am passionate about research and love making detailed notes to deepen my understanding of AI, ML, and Data Science.
-📚 Continuously exploring new topics and technologies to improve my skills.
-🧑‍🏫 My Learning Journey:
-Learning Journey
+---
 
-🎉 Fun & Interactive Features:
-🎮 Click here for a fun surprise!
-💡 GitHub Stats:
-Top Languages
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql)
 
-🚀 Let's Collaborate!
-Open to collaborating on ML/DL and AI-based projects.
-Feel free to fork my projects and contribute to them.
-Looking for exciting opportunities to apply my skills in AI & Machine Learning!
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saragamilmohamed&show_icons=true&theme=radical" alt="Sara's GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/YOUR-LINK/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&labelColor=red)](mailto:your.email@gmail.com)
+
