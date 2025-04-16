@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=45&lines=AI+Developer+%7C+Deep+Learning+Specialist;Data+Science+Explorer+%7C+NLP+%26+CV+Enthusiast;Power+BI+%7C+EDA+%7C+Model+Deployment;Open+to+collaborations+and+learning!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=45&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+NLP+%26+CV;Power+BI+%7C+EDA+%7C+Model+Deployment;Open+to+collaborations+and+learning!" />
 </p>
 
 ---
