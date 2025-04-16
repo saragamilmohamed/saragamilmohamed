@@ -2,10 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:0000FF&height=250&section=header&text=Hi👋%20I'm%20Sara%20Gamil&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=D3D3D3" />
 </p>
 
+<h3 align="center">
+  <a href="https://iti.gov.eg/home" target="_blank" style="text-decoration: none; color: inherit;">
+    AI & ML Trainee @ ITI
+  </a>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=45&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+NLP+%26+CV;Power+BI+%7C+EDA+%7C+Model+Deployment;Open+to+collaborations+and+learning!" />
 </p>
+
 
 ---
 # 🌟 **About me**
