@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://iti.gov.eg/home" target="_blank" style="text-decoration: none; color: inherit;">
-    AI & ML Trainee @ ITI
+    AI & ML Engineer
   </a>
 </h3>
 
